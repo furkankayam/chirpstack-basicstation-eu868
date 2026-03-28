@@ -1,4 +1,4 @@
-# `ChirpStack BasicStation - EU868`
+# 📡 `ChirpStack BasicStation - EU868`
 
 <div align="center">
 <img src="/images/chirpstack.png" alt="chirpstack">
