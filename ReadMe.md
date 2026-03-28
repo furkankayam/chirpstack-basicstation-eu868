@@ -19,7 +19,6 @@
 
 #### Gateway
 
-[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-4-000?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.raspberrypi.com/)
 [![BasicStation](https://img.shields.io/badge/BasicStation-2.0-000?style=for-the-badge&logoColor=white&color=6A0DAD)](https://doc.sm.tc/station/)
 
 #### CI/CD
