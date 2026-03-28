@@ -1,0 +1,35 @@
+# `ChirpStack BasicStation - EU868`
+
+<div align="center">
+<img src="/images/chirpstack.png" alt="chirpstack">
+</div>
+
+- A production-ready LoRaWAN network server stack with BasicStation gateway support.
+
+<br>
+
+### This project uses the following packages:
+
+#### Server
+
+[![ChirpStack](https://img.shields.io/badge/ChirpStack-v4-000?style=for-the-badge&logo=wikiquote&logoColor=white&color=0099CC)](https://www.chirpstack.io/)
+[![Mosquitto](https://img.shields.io/badge/Mosquitto-2.0.20-000?style=for-the-badge&logo=eclipsemosquitto&logoColor=white&color=3C5280)](https://mosquitto.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.2-000?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-8.0-000?style=for-the-badge&logo=redis&logoColor=white&color=FF4438)](https://redis.io/)
+
+#### Gateway
+
+[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-4-000?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.raspberrypi.com/)
+[![BasicStation](https://img.shields.io/badge/BasicStation-2.0-000?style=for-the-badge&logoColor=white&color=6A0DAD)](https://doc.sm.tc/station/)
+
+#### CI/CD
+
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-LATEST-000?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED)](https://docs.docker.com/compose/)
+
+<br>
+
+# 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
+
+**Created by** [Mehmet Furkan KAYA](https://www.linkedin.com/in/mehmet-furkan-kaya/)
